@@ -15,9 +15,7 @@ Este projeto foi desenvolvido como um desafio que surgiu no curso de React da Or
 - [x] Deletar Animais.
 - [x] Visualizar Animais.
 - [x] Visualizar Acessos a foto.
-- [] Fazer comentários.
-- [] Editar comentários.
-- [] Visualizar comentários nas fotos.
+
 
 ## Pré-requisitos
 
